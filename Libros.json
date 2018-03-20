@@ -1,0 +1,18 @@
+[
+  {
+   "id" : 1 ,
+   "nombre" : "Cien años de soledad",
+   "autor" : "Gabriel García Marquez",
+   "fecha_publicacion" : "02/02/1998",
+   "categoriaid" : [1]
+  },
+  {
+    "id" : 2 ,
+   "nombre" : "Algebra lineal",
+   "autor" : "Baldor",
+   "fecha_publicacion" : "02/02/1960",
+   "categoriaid" : [2,3]
+  }
+  
+  ]
+  

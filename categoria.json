@@ -1,0 +1,25 @@
+[
+    {
+      "nombre": "educacion",
+      "id" : 2 },
+    
+    {
+      "nombre" : "matemáticas",
+      "id" : 3
+    },
+    
+    {
+      "nombre" : "Terror",
+      "id" : 1
+    },
+    
+    {
+      "nombre" : "ficción",
+      "id" : 4
+    },
+    
+    "nombre" : "Acción",
+    "id" : 5
+    },
+    
+    ]
